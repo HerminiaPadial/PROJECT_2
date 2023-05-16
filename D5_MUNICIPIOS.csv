@@ -1,0 +1,157 @@
+id_municipio,municipio_codigo,municipio_nombre
+1,2,Ajalvir
+2,4,"Álamo, El"
+3,5,Alcalá de Henares
+4,6,Alcobendas
+5,7,Alcorcón
+6,8,Aldea del Fresno
+7,9,Algete
+8,10,Alpedrete
+9,13,Aranjuez
+10,903,Tres Cantos
+11,14,Arganda del Rey
+12,15,Arroyomolinos
+13,18,Becerril de la Sierra
+14,19,Belmonte de Tajo
+15,22,Boadilla del Monte
+16,23,"Boalo, El"
+17,26,Brunete
+18,27,Buitrago del Lozoya
+19,28,Bustarviejo
+20,30,"Cabrera, La"
+21,31,Cadalso de los Vidrios
+22,32,Camarma de Esteruelas
+23,33,Campo Real
+24,36,Casarrubuelos
+25,37,Cenicientos
+26,38,Cercedilla
+27,40,Ciempozuelos
+28,41,Cobeña
+29,43,Colmenar de Oreja
+30,44,Colmenarejo
+31,45,Colmenar Viejo
+32,46,Collado Mediano
+33,47,Collado Villalba
+34,49,Coslada
+35,50,Cubas de la Sagra
+36,52,Chinchón
+37,53,Daganzo de Arriba
+38,54,"Escorial, El"
+39,55,Estremera
+40,58,Fuenlabrada
+41,59,Fuente el Saz de Jarama
+42,60,Fuentidueña de Tajo
+43,61,Galapagar
+44,65,Getafe
+45,66,Griñón
+46,67,Guadalix de la Sierra
+47,68,Guadarrama
+48,72,Hoyo de Manzanares
+49,73,Humanes de Madrid
+50,74,Leganés
+51,75,Loeches
+52,79,Madrid
+53,90,Moralzarzal
+54,80,Majadahonda
+55,82,Manzanares el Real
+56,83,Meco
+57,84,Mejorada del Campo
+58,85,Miraflores de la Sierra
+59,86,"Molar, El"
+60,87,Molinos. Los
+61,89,Moraleja de Enmedio
+62,91,Morata de Tajuña
+63,92,Móstoles
+64,93,Navacerrada
+65,96,Navalcarnero
+66,99,Navas del Rey
+67,100,Nuevo Baztán
+68,104,Paracuellos de Jarama
+69,106,Parla
+70,110,Perales de Tajuña
+71,113,Pinto
+72,115,Pozuelo de Alarcón
+73,120,Rascafría
+74,123,Rivas-Vaciamadrid
+75,125,Robledo de Chavela
+76,127,"Rozas de Madrid, Las"
+77,129,San Agustín del Guadalix
+78,130,San Fernando de Henares
+79,131,San Lorenzo de El Escorial
+80,132,San Martín de la Vega
+81,133,San Martín de Valdeiglesias
+82,134,San Sebastián de los Reyes
+83,141,Sevilla la Nueva
+84,144,Soto del Real
+85,146,Tielmes
+86,147,Titulcia
+87,148,Torrejón de Ardoz
+88,149,Torrejón de la Calzada
+89,150,Torrejón de Velasco
+90,151,Torrelaguna
+91,152,Torrelodones
+92,154,Torres de la Alameda
+93,156,Valdeavero
+94,160,Valdemorillo
+95,161,Valdemoro
+96,162,Valdeolmos-Alalpardo
+97,164,Valdetorres de Jarama
+98,165,Valdilecha
+99,167,Velilla de San Antonio
+100,170,Villaconejos
+101,171,Villa del Prado
+102,172,Villalbilla
+103,174,Villamanta
+104,176,Villanueva de la Cañada
+105,177,Villanueva del Pardillo
+106,180,Villarejo de Salvanés
+107,181,Villaviciosa de Odón
+108,76,Lozoya
+109,102,Orusco de Tajuña
+110,107,Patones
+111,901,Lozoyuela-Navas-Sieteiglesias
+112,136,Santorcaz
+113,155,Valdaracete
+114,183,Zarzalejo
+115,57,Fresno de Torote
+116,128,Rozas de Puerto Real
+117,169,Venturada
+118,153,Torremocha de Jarama
+119,179,Villar del Olmo
+120,51,Chapinería
+121,145,Talamanca de Jarama
+122,108,Pedrezuela
+123,140,Serranillos del Valle
+124,56,Fresnedillas de la Oliva
+125,95,Navalagamella
+126,119,Quijorna
+127,109,Pelayos de la Presa
+128,137,"Santos de la Humosa, Los"
+129,35,Carabaña
+130,122,Ribatejada
+131,178,Villanueva de Perales
+132,29,Cabanillas de la Sierra
+133,42,Colmenar del Arroyo
+134,175,Villamantilla
+135,17,Batres
+136,168,"Vellón, El"
+137,12,Anchuelo
+138,88,Montejo de la Sierra
+139,173,Villamanrique de Tajo
+140,116,Pozuelo del Rey
+141,94,Navalafuente
+142,121,Redueña
+143,182,Villavieja del Lozoya
+144,21,"Berrueco, El"
+145,158,Valdemanco
+146,25,Brea de Tajo
+147,157,Valdelaguna
+148,163,Valdepiélagos
+149,39,Cervera de Buitrago
+150,159,Valdemaqueda
+151,111,Pezuela de las Torres
+152,101,Olmeda de las Fuentes
+153,48,Corpa
+154,11,Ambite
+155,135,Santa María de la Alameda
+156,20,Berzosa del Lozoya
