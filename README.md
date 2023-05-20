@@ -1,5 +1,3 @@
-![imagen1](https://github.com/HerminiaPadial/PROJECT_2/assets/120276613/bc25e266-782c-4309-9709-eb44ef1e9195)
-
 
 **<h1 align="center" style="color:red;">Analysis of educational centers in the Community of Madrid by municipality</h1>**
 
@@ -12,8 +10,7 @@ This project aims to help people who are interested in finding a quick list of e
 📁 **Folder structure**
 -----------------------
 
-![diagrama]/Users/herminiapadialromera/ironhackb/Project_m2/diagrama.png
-
+![diagrama](https://github.com/HerminiaPadial/PROJECT_2/assets/120276613/359706be-d789-404d-8e96-a2b2bda0b3ff)
 
 💻 **Technology stack**
 -----------------------
