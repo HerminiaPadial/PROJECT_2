@@ -1,7 +1,7 @@
-![imagen1](/Users/herminiapadialromera/ironhackb/Project_m2/madrid-mapa.png.jpg)
+![imagen1](https://github.com/HerminiaPadial/PROJECT_2/assets/120276613/bc25e266-782c-4309-9709-eb44ef1e9195)
 
 
-**<h1 align="center" style="color:red;">Análisis de los centros educativos de la Comunidad de Madrid por municipio</h1>**
+**<h1 align="center" style="color:red;">Analysis of educational centers in the Community of Madrid by municipality</h1>**
 
 
 This project aims to help people who are interested in finding a quick list of educational centers according to three main characteristics:
@@ -11,6 +11,9 @@ This project aims to help people who are interested in finding a quick list of e
 
 📁 **Folder structure**
 -----------------------
+
+![diagrama]/Users/herminiapadialromera/ironhackb/Project_m2/diagrama.png
+
 
 💻 **Technology stack**
 -----------------------
