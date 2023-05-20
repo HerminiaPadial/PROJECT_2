@@ -7,6 +7,11 @@ This project aims to help people who are interested in finding a quick list of e
 - Public, private and/or charter management.
 - Educational level
 
+
+📁 **First version**
+
+![Esquema](https://github.com/HerminiaPadial/PROJECT_2/assets/120276613/86afb2dc-168b-45d8-8e4d-2df96f666fd9)
+
 📁 **Folder structure**
 -----------------------
 
